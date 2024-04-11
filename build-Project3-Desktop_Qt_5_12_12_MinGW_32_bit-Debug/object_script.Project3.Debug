@@ -1,0 +1,11 @@
+debug/login.o
+debug/main.o
+debug/profile.o
+debug/signup.o
+debug/splash.o
+debug/qrc_images.o
+debug/qrc_user.o
+debug/moc_login.o
+debug/moc_profile.o
+debug/moc_signup.o
+debug/moc_splash.o

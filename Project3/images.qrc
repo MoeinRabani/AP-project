@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>BackGround.jpg</file>
+        <file>lock.png</file>
+        <file>work.jpeg</file>
+        <file>mail.jpg</file>
+    </qresource>
+</RCC>
